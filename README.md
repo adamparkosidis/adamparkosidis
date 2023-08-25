@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-:ringed_planet: I'm a highly motivated and curious Physicist deeply involved into coding and Data Analytics<br> :man_student: I'm  currently studying at UvA, completing the 2-year MSc  program 'Astronomy & Astrophysics'<br> 📊 I'm currently focusing on Data Science modeling techniques and Machine Learning algorithms
+:ringed_planet: I'm a highly motivated and curious Astrophysicist deeply involved into coding and Computational Astrphysics<br> :man_student: I'm currently a PhD candidate at UvA, focusing on the evolution of Triple-star systems<br> 📊 I'm also involved into Data Science modeling techniques and Machine Learning algorithms
 
 
 ## 🌐 Socials:
