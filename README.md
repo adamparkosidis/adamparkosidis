@@ -1,4 +1,4 @@
-
+<h1> Adam Parkosidis </h1>
 # 💫 About Me:
 :ringed_planet: I'm a highly motivated and curious Astrophysicist deeply involved into coding and Computational Astrophysics<br> :man_student: I'm currently a PhD candidate at UvA, focusing on the evolution of Triple-star systems<br> 📊 I'm also involved into Data Science modeling techniques and Machine Learning algorithms
 
